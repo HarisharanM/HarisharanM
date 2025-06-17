@@ -5,13 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Turning+Code+into+Solutions;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working on [Fake News Detection App using Streamlit and Machine Learning](https://github.com/HarisharanM/Fake-News-Detector)
+- 🔭 Latest Completed Project [Fake News Detection App using Streamlit and Machine Learning](https://github.com/HarisharanM/Fake-News-Detector)
 
-- 🌱 I’m currently learning **Data science,TensorFlow, Keras, Deep Learning, Django, and Deployment using Streamlit**
+- 🌱 Enchancing my Tech like **Data science,TensorFlow, Keras, Deep Learning, Django, and Deployment using Streamlit**
 
-- 👯 I’m looking to collaborate on **Beginner to intermediate-level Machine Learning projects**
+- 👯 I’m looking to collaborate on ** intermediate-level Machine Learning projects**
 
-- 🤝 I’m looking for help with **Deep Learning Projects (Neural Networks, CNNs)**
+- 🤝 I’m looking for help with **Complex Deep Learning Projects (Neural Networks, CNNs)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarisharanM](https://github.com/HarisharanM)
 
