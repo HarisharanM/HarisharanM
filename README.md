@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **harisharanmishra167@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qywR_rmfXDSp04k2Nds7lJDTnLhCyxT4/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aExOHH-H0Xsn0U4IdzTUm3i_KRoJCQcR/view?usp=sharing)
 
 - ⚡ Fun fact **I once used machine learning to predict if my mom would make paneer or lauki for dinner (spoiler: lauki wins too often 😅).**
 
